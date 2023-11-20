@@ -1,3 +1,17 @@
+---
+title: For a New Hermeneutics of Practice in Digital Public History
+subject: DISSERTATION Presented on 16/09/2020 in Esch-sur-Alzette to obtain the degree of DOCTEUR DE L’UNIVERSITÉ DU LUXEMBOURG EN Histoire
+subtitle: thinkering with memorecord.uni.lu
+short_title: For a New Hermeneutics of Practice in Digital Public History
+authors:
+  - name: Anita Lucchesi
+    affiliations:
+      - Luxembourg Centre for Contemporary and Digital History (C²DH)
+    email: anita.lucchesi@uni.lu
+license: CC-BY-4.0
+keywords: digital history & historiography, digital methods, digital source criticism, digital tools, oral history
+---
+
 # Abstract
 
 This thesis is built upon an experimental study of doing digital public history. I aim to study the digital interferences of the digital component on the historiographic operation as a whole. While the fields of digital and public history are advancing fast with abundant work on development and application of new methodologies, tools  and approaches, the discipline of history is still lagging behind in terms of  theoretical reflection on the new practices emerging from it. Researchers have been exploring alternative forms of source criticism, storytelling and publications for years now, yet the greatest attention still goes to the outputs, while little criticism, if any, is devoted to the process of doing digital work. By building and analysing a digital public history platform, this research aims to make a contribution in this direction. To do so, the research takes a fully **hands-on approach** and offers an evaluation of digital methods that to great extent emerge from practice and the researcher’s first-hand experience with the digital.

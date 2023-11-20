@@ -7,9 +7,8 @@ book_metadata:
     - bibliography.bib
 table_of_contents:
   format: jb-book
-  root: cover.md
+  root: abstract.md
   chapters:
-    - file: cover.md
     - file: abstract.md
     - file: acknowledgements.md
     - file: introduction.md
