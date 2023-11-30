@@ -14,3 +14,8 @@ table_of_contents:
     - file: introduction.md
     - file: ch1.md
     - file: ch2.md
+    - file: ch3.md
+    - file: ch4.md
+    - file: conclusion.md
+    - file: resources.md
+
