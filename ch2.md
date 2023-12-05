@@ -5,7 +5,7 @@
 Sometimes the process is more important than the result, as once noted by the performative artist Marina Abramović. She eloquently recollects the deep impact of her first painting lesson here:  
 
 > He \[artist Filo Filipović] cut out a piece of canvas and put it on the floor. He opened a can of glue and threw the liquid on the canvas; he added a little bit of sand, some yellow pigment, some red pigment, and some black. Then he poured about half a litre of gasoline on it, lit a match, and everything exploded. "This is a sunset," he told me. And then he left. (...) I waited until the charred mess had dried, and then very carefully pinned it to the wall. Then my family and I left for vacation. When I came back, the August sun had dried everything up. The color was gone and the sand had fallen off. There was nothing left but a pile of ashes and sand on the floor. The sunset didn't exist anymore.
-> - @marina_walk_2016, p. 27 [^ref-16]
+> - @abramovic_walk_2016, p. 27 [^ref-16]
 
 The details of Filipović’s creative _process_ depicted by the Serbian artist in her memoirs could not be seen in the final art. After a while, most of the artistic process had vanished, leaving behind nothing but a few traces. In this scenario, used materials and techniques could become irretrievable even to trained eyes. The same often happens to many digital scholarship projects; we get to experience their final products, but rarely learn from their manufacturing process.
 
@@ -23,9 +23,9 @@ With this in mind, what were the expectations regarding this digital memory plat
 
 The infographic below [_Figure 1_](#fig-1) gives an overview of the milestones experienced up to the final product for the Memorecord memory harvest. In the following sections, I will present each of the developing phases indicated hereunder. I will also report on the adaptations that became necessary to guarantee pursuit of the project's original goals while trying to accommodate the different expectations and contributions of the community participants.
 
-:::{figure} ./images/shaping-memorecord-digital-memory-platform.png
+:::{figure} ./images/ch2-image001.jpg
 :name: fig-1
-\#Memorecord's roadmap, by Anita Lucchesi, 2019._
+\#Memorecord's roadmap, by Anita Lucchesi, 2019.
 :::
 
 ## Fieldwork
@@ -33,6 +33,213 @@ The infographic below [_Figure 1_](#fig-1) gives an overview of the milestones e
 The fieldwork for the case study consisted in **exploratory archival research** and **ongoing ethnographic observation** that I carried throughout all the phases of the project. The first observations started informally with my situation as a newcomer, recently arrived from Brazil at the beginning of the PhD studies, in 2015. The sonic landscape has left a massive impression on me from the first time I commuted by train from Luxembourg City to Esch-sur-Alzette. The babble of languages and accents that one could hear on public transport around the country was remarkable. Later on, the noteworthy multilingualism would prove to be one of the many practical challenges to the project.
 
 After preliminary inquiries at the National Archives and at the _Centre de Documentation sur les Migrations Humaines (CDMH)_ in Dudelange, I readily understood that the CDMH was not only a mere source for documents. Over the years it has grown far beyond its intention as a place for _rencontre_ and cultural exchange; now it has collected an extensive list of cultural activities and has become the home for a specialized library on migration. Thus, we decided to follow their initiatives more closely and explore its surroundings, the neighbourhood of _Petite Italie_. The vicinity’s toponymy reconnects Dudelange, the train station and the CDMH itself to the migration history in Luxembourg. Around its location, we could see a landscape of old buildings coloured by the smoke of the ancient blast furnaces, the rails of the trains, and in the distance, on the other side of the rails, some pavilions that remained from the busy working town it used to be.
+
+# Resources
+
+## Figures
+
+[_Figure 1_](#fig-1)
+
+:::{figure} ./images/ch2-image001.jpg
+:name: fig-1
+\#Memorecord's roadmap, by Anita Lucchesi, 2019._
+:::
+
+[_Figure 2_](#fig-2)
+
+:::{figure} ./images/ch2-image002.png
+:name: fig-2
+\#Invitation card for Racontez Votre Histoire... (front)
+:::
+
+[_Figure 3_](#fig-3)
+
+:::{figure} ./images/ch2-image003.png
+:name: fig-3
+\#Invitation card for Racontez Votre Histoire... (back)
+:::
+
+[_Figure 4_](#fig-4)
+
+:::{figure} ./images/ch2-image004.png
+:name: fig-4
+\#How to Make a PixStori, by Talking Pictures LLC.
+:::
+
+[_Figure 5_](#fig-5)
+
+:::{figure} ./images/ch2-image005.png
+:name: fig-5
+\#Pixstori recorded by Paulo Lobo, Portuguese migrant.
+:::
+
+[_Figure 6_](#fig-6)
+
+:::{figure} ./images/ch2-image006.png
+:name: fig-6
+\#Contribute tab for The September 11 Digital Archive, developed based on Omeka (http://911digitalarchive.org/contribution)
+:::
+
+[_Figure 7_](#fig-7)
+
+:::{figure} ./images/ch2-image007.png
+:name: fig-7
+\#The first attempt at developing the platform on WordPress. Full screenshot of the "Tell your story" section, including information on how to use PixStori.
+:::
+
+[_Figure 7_](#fig-7)
+
+:::{figure} ./images/ch2-image007.png
+:name: fig-7
+\#The first attempt at developing the platform on WordPress. Full screenshot of the "Tell your story" section, including information on how to use PixStori.
+:::
+
+[_Figure 8_](#fig-8)
+
+:::{figure} ./images/ch2-image008.png
+:name: fig-8
+\#The first attempt at developing the platform on WordPress. Full screenshot of the "Tell your story" section, including information on how to use PixStori.
+:::
+
+[_Figure 9_](#fig-9)
+
+:::{figure} ./images/ch2-image009.png
+:name: fig-9
+\#Social media usage in Luxembourg 2017, by platform. Source: TNS Ilres (MyPanel Échantillon). Survey period: March 2017. Number of respondents: 503. Age group: 16 years and older.
+:::
+
+[_Figure 10_](#fig-10)
+
+:::{figure} ./images/ch2-image010.png
+:name: fig-10
+\#First sketch of Memorecord crowdsourcing mechanism, including social media.
+:::
+
+[_Figure 11_](#fig-11)
+
+:::{figure} ./images/ch2-image011.png
+:name: fig-11
+\#Draft of site map created by myself with annotation on content and features for the section “The Project”.
+:::
+
+[_Figure 12_](#fig-12)
+
+:::{figure} ./images/ch2-image012.png
+:name: fig-12
+\#First draft of the in-house developed version of the digital memory platform, by Daniele Guido
+:::
+
+[_Figure 13_](#fig-13)
+
+:::{figure} ./images/ch2-image013.png
+:name: fig-13
+\#A visual outline of the Memorecord Harvest Machine
+:::
+
+[_Figure 14_](#fig-14)
+
+:::{figure} ./images/ch2-image014.png
+:name: fig-14
+\#Visuals available on the official website mobilitegratuite.lu, alongside the hashtags quoted in the press kit material – #mobilitegratuite, #cestungrandjour and #freemobility
+:::
+
+[_Figure 15_](#fig-15)
+
+:::{figure} ./images/ch2-image015.png
+:name: fig-15
+\#Call to Action #CestUnGrandJour, from the official website mobilitegratuite.lu, alongside the hashtags quoted in the press kit material – #mobilitegratuite, #cestungrandjour and #freemobility
+:::
+
+[_Figure 16_](#fig-16)
+
+:::{figure} ./images/ch2-image016.png
+:name: fig-16
+\#Detail cropped from Memorecord’s home page, slide “Memorecord is a simple hashtag” on the dynamic carousel available at memorecord.uni.lu
+:::
+
+[_Figure 17_](#fig-17)
+
+:::{figure} ./images/ch2-image017.png
+:name: fig-17
+\#Detail of the Google Sheets with the data harvested by Zapier to Memorecord.
+:::
+
+[_Figure 18_](#fig-18)
+
+:::{figure} ./images/ch2-image018.png
+:name: fig-18
+\#Development of the project logo in collaboration with Emmanuelle Hingray.
+:::
+
+[_Figure 19_](#fig-19)
+
+:::{figure} ./images/ch2-image019.png
+:name: fig-19
+\#Memocord’s advertisement in the American Bar Association Journal, Chicago, 1974.
+:::
+
+[_Figure 20_](#fig-20)
+
+:::{figure} ./images/ch2-image020.png
+:name: fig-20
+\#Memorecord official logo developed by Emmanuelle Hingray.
+:::
+
+[_Figure 21_](#fig-21)
+
+:::{figure} ./images/ch2-image021.jpg
+:name: fig-21
+\#English version of the Memorecord e-flyer.
+:::
+
+[_Figure 22_](#fig-22)
+
+:::{figure} ./images/ch2-image022.gif
+:name: fig-22
+\#Animated invitation to the exhibition Memória Episodika, by Edmond Oliveira.
+:::
+
+[_Figure 23_](#fig-23)
+
+:::{figure} ./images/ch2-image023.png
+:name: fig-23
+\#Hotspots for distribution of flyers and posters. Detail: Gare and Bonnevoie, Luxembourg City.
+:::
+
+[_Figure 24_](#fig-24)
+
+:::{figure} ./images/ch2-image024.jpg
+:name: fig-24
+\#Memorecord's poster hanging at the entrance of the Comité de liaison des associations d'étrangers (CLAE). Gasperich, Luxembourg Ville, January 2019.
+:::
+
+[_Figure 25_](#fig-25)
+
+:::{figure} ./images/ch2-image025.png
+:name: fig-25
+\#Detail of a post from Facebook figuring on the Memorecord website.
+:::
+
+[_Figure 26_](#fig-26)
+
+:::{figure} ./images/ch2-image026.png
+:name: fig-26
+\#The Memorecord homepage, as in https://memorecord.uni.lu/
+:::
+
+[_Figure 27_](#fig-27)
+
+:::{figure} ./images/ch2-image027.jpg
+:name: fig-27
+\#String with stories previews from the Memorecord read stories section, as in https://memorecord.uni.lu/stories/
+:::
+
+[_Figure 28_](#fig-28)
+
+:::{figure} ./images/ch2-image028.png
+:name: fig-28
+\#View of the world map section, with the preview of a story on Memorecord website, as in https://memorecord.uni.lu/map/
+:::
 
 ---
 
